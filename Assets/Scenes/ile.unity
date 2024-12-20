@@ -2443,7 +2443,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 1
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 75081fc7d652c734ebde4f2758bacac6, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 32846e9075db4e14ab110b1b8032edd1, type: 2}
 --- !u!65 &159204841
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6290,7 +6290,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 1
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 75081fc7d652c734ebde4f2758bacac6, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 30c298cd754d2374aa1fe5fe2cddec33, type: 2}
 --- !u!65 &437942406
 BoxCollider:
   m_ObjectHideFlags: 0
